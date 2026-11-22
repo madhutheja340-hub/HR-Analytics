@@ -52,16 +52,19 @@ An end-to-end HR analytics project that explores employee data using **SQL**, **
 
 ### Excel Dashboard
 Pivot-table-based dashboard summarizing headcount, attrition, and compensation with slicers for quick filtering.
+
 <img width="740" height="560" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/d5c70643-067d-49d6-a7aa-8630a0ddbacb" />
 
 
 ### Power BI Dashboard
 Interactive report with KPI cards, drill-downs, and slicers across departments, job roles, and demographics.
+
 <img width="1331" height="759" alt="PowerBi Dashboard" src="https://github.com/user-attachments/assets/d8f493d0-9b07-4308-98da-76487dd2498e" />
 
 
 ### Tableau Dashboard
 Visual story of workforce trends with filters and interactive charts.
+
 <img width="1920" height="1080" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/5e0f2168-870d-427c-ad18-be1867dceb14" />
 
 ---
