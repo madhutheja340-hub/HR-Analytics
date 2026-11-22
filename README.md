@@ -90,7 +90,8 @@ Visual story of workforce trends with filters and interactive charts.
 
 ## Author
 
-**Madhu Theja**
+**Thejasvini**
+
 GitHub: [@madhutheja340-hub](https://github.com/madhutheja340-hub)
 
 ---
